@@ -16,6 +16,12 @@ and licensed under
   <a target="_blank" href="https://thenounproject.com/rflmyk">Rafael Mayrink</a></div></div>
 
 
+## Icon Color
+  
+  #325E7A
+
+## Text Color
+  #5B5B5B
 
 ## 1
 ![1/cover.png](1/cover.png)
